@@ -1,0 +1,1 @@
+Don't forget to convert script.txt to script.js

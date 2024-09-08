@@ -1,0 +1,370 @@
+[
+      {
+          "id": "plane_001",
+          "name": "9N-AIT",
+          "airlineName": "Yeti airline",
+          "manufacture": "JetStream Aerospace",
+          "totalSeat": 45,
+          "range": "3000 km",
+          "engines": "2x Turbofan",
+          "cargoCapacity": "10,000 kg",
+          "fuelCapacity": "20,000 liters",
+          "age": 31,
+          "unitCost": 50000000,
+            "image": "plane_001.jpg",
+          
+          "purchaseHistory": [
+              {
+                  "date": "2019-05-15",
+                  "amount": 50000000,
+                  "seller": "JetStream Aerospace"
+              }
+          ],
+          "crew": [
+              {
+                  "name": "Captain Babish",
+                  "experience": 10,
+                  "age": 35
+              },
+              {
+                  "name": "Captain Johnson",
+                  "experience": 15,
+                  "age": 40
+              }
+          ],
+          "userReviews": [
+              {
+                  "name": "Babish Chaudhary",
+                  "rating": 4.5,
+                  "review": "Excellent service and comfortable flight."
+              },
+              {
+                  "name": "Rajesh Kumar",
+                  "rating": 4.0,
+                  "review": "Good flight experience, but could use better amenities."
+              }
+          ],
+          "maintenance": [
+              {
+                  "type": "Scheduled Maintenance",
+                  "date": "2024-03-01",
+                  "description": "Routine check-up and replacement of worn-out parts."
+              },
+              {
+                  "type": "Engine Overhaul",
+                  "date": "2023-09-15",
+                  "description": "Complete overhaul of engines to ensure optimal performance."
+              }
+          ],
+          "incidentReports": [
+              {
+                  "incident": "Bird Strike",
+                  "date": "2023-06-10",
+                  "description": "Encountered a flock of birds during takeoff, causing minor damage to the nose."
+              }
+          ]
+      },
+      {
+          "id": "plane_002",
+          "name": "SkyFlyer X",
+          "airlineName": "Airline B",
+          "manufacture": "SkyFlyer Inc.",
+          "totalSeat": 150,
+          "range": "2500 km",
+          "engines": "2x Turbojet",
+          "cargoCapacity": "8,000 kg",
+          "fuelCapacity": "15,000 liters",
+          "age": 3,
+          "unitCost": 40000000,
+          "image": "plane_001.jpg",
+          "purchaseHistory": [
+              {
+                  "date": "2021-07-10",
+                  "amount": 40000000,
+                  "seller": "SkyFlyer Inc."
+              }
+          ],
+          "crew": [
+              {
+                  "name": "Captain Lee",
+                  "experience": 8,
+                  "age": 32
+              },
+              {
+                  "name": "First Officer Patel",
+                  "experience": 6,
+                  "age": 28
+              }
+          ],
+          "userReviews": [
+              {
+                  "name": "Anita Rai",
+                  "rating": 3.5,
+                  "review": "Comfortable but the flight was delayed."
+              },
+              {
+                  "name": "Deepak Sharma",
+                  "rating": 4.0,
+                  "review": "Overall good experience, but food options were limited."
+              }
+          ],
+          "maintenance": [
+              {
+                  "type": "Scheduled Maintenance",
+                  "date": "2024-01-20",
+                  "description": "Routine check-up and servicing of aircraft systems."
+              },
+              {
+                  "type": "Avionics Upgrade",
+                  "date": "2023-05-10",
+                  "description": "Upgraded avionics systems for enhanced navigation."
+              }
+          ],
+          "incidentReports": [
+              {
+                  "incident": "Landing Gear Issue",
+                  "date": "2022-11-22",
+                  "description": "Landing gear malfunctioned during approach, causing a delay."
+              }
+          ]
+      },
+      {
+          "id": "plane_003",
+          "name": "EagleJet 300",
+          "airlineName": "Airline C",
+          "manufacture": "EagleJet Ltd.",
+          "totalSeat": 120,
+          "range": "2000 km",
+          "engines": "1x Turboprop",
+          "cargoCapacity": "5,000 kg",
+          "fuelCapacity": "8,000 liters",
+          "age": 7,
+          "unitCost": 30000000,
+          "image": "",
+          "purchaseHistory": [
+              {
+                  "date": "2016-11-25",
+                  "amount": 30000000,
+                  "seller": "EagleJet Ltd."
+              }
+          ],
+          "crew": [
+              {
+                  "name": "Captain Brown",
+                  "experience": 12,
+                  "age": 38
+              },
+              {
+                  "name": "First Officer Green",
+                  "experience": 5,
+                  "age": 30
+              }
+          ],
+          "userReviews": [
+              {
+                  "name": "Suman Thapa",
+                  "rating": 4.2,
+                  "review": "Great for short routes but a bit cramped."
+              },
+              {
+                  "name": "Ravi Joshi",
+                  "rating": 3.8,
+                  "review": "Efficient flight but noise levels were high."
+              }
+          ],
+          "maintenance": [
+              {
+                  "type": "Routine Inspection",
+                  "date": "2024-02-15",
+                  "description": "Inspected for any wear and tear."
+              },
+              {
+                  "type": "Propeller Replacement",
+                  "date": "2023-08-01",
+                  "description": "Replaced propeller due to minor damage."
+              }
+          ],
+          "incidentReports": []
+      },
+      {
+          "id": "plane_005",
+          "name": "9N-AIM",
+          "airlineName": "Buddha Airline",
+          "manufacture": "JetStream Aerospace",
+          "totalSeat": 56,
+          "range": "3000 km",
+          "engines": "2x Turbofan",
+          "cargoCapacity": "10,000 kg",
+          "fuelCapacity": "20,000 liters",
+          "age": 5,
+          "unitCost": 50000000,
+          "image": "",
+          "purchaseHistory": [
+              {
+                  "date": "2019-05-15",
+                  "amount": 50000000,
+                  "seller": "JetStream Aerospace"
+              }
+          ],
+          "crew": [
+              {
+                  "name": "Captain Smith",
+                  "experience": 10,
+                  "age": 35
+              },
+              {
+                  "name": "Captain Johnson",
+                  "experience": 15,
+                  "age": 40
+              }
+          ],
+          "userReviews": [
+              {
+                  "name": "Babish Chaudhary",
+                  "rating": 4.5,
+                  "review": "Excellent service and comfortable flight."
+              },
+              {
+                  "name": "Rajesh Kumar",
+                  "rating": 4.0,
+                  "review": "Good flight experience, but could use better amenities."
+              }
+          ],
+          "maintenance": [
+              {
+                  "type": "Scheduled Maintenance",
+                  "date": "2024-03-01",
+                  "description": "Routine check-up and replacement of worn-out parts."
+              },
+              {
+                  "type": "Engine Overhaul",
+                  "date": "2023-09-15",
+                  "description": "Complete overhaul of engines to ensure optimal performance."
+              }
+          ],
+          "incidentReports": [
+              {
+                  "incident": "Cabin Pressure Issue",
+                  "date": "2023-07-20",
+                  "description": "Cabin pressure issue during flight, resolved by the crew without emergency landing."
+              }
+          ]
+      },
+      {
+          "id": "plane_006",
+          "name": "9N-AMZ",
+          "airlineName": "Yeti airline",
+          "manufacture": "JetStream Aerospace",
+          "totalSeat": 45,
+          "range": "3000 km",
+          "engines": "2x Turbofan",
+          "cargoCapacity": "10,000 kg",
+          "fuelCapacity": "20,000 liters",
+          "age": 5,
+          "unitCost": 50000000,
+          "image": "",
+          "purchaseHistory": [
+              {
+                  "date": "2019-05-15",
+                  "amount": 50000000,
+                  "seller": "JetStream Aerospace"
+              }
+          ],
+          "crew": [
+              {
+                  "name": "Captain Swopan",
+                  "experience": 10,
+                  "age": 35
+              },
+              {
+                  "name": "Captain Rajesh",
+                  "experience": 15,
+                  "age": 40
+              }
+          ],
+          "userReviews": [
+              {
+                  "name": "Anil Shakya",
+                  "rating": 4.5,
+                  "review": "Excellent service and comfortable flight."
+              },
+              {
+                  "name": "Rajesh Kumar",
+                  "rating": 4.0,
+                  "review": "Good flight experience, but could use better amenities."
+              }
+          ],
+          "maintenance": [
+              {
+                  "type": "Scheduled Maintenance",
+                  "date": "2024-03-01",
+                  "description": "Routine check-up and replacement of worn-out parts."
+              },
+              {
+                  "type": "Engine Overhaul",
+                  "date": "2023-09-15",
+                  "description": "Complete overhaul of engines to ensure optimal performance."
+              }
+          ],
+          "incidentReports": []
+      },
+      {
+          "id": "plane_007",
+          "name": "9N-ANC",
+          "airlineName": "Yeti airline",
+          "manufacture": "JetStream Aerospace",
+          "totalSeat": 180,
+          "range": "3000 km",
+          "engines": "2x Turbofan",
+          "cargoCapacity": "10,000 kg",
+          "fuelCapacity": "20,000 liters",
+          "age": 5,
+          "unitCost": 50000000,
+          "image": "9NM.png",
+          "purchaseHistory": [
+              {
+                  "date": "2019-05-15",
+                  "amount": 50000000,
+                  "seller": "JetStream Aerospace"
+              }
+          ],
+          "crew": [
+              {
+                  "name": "Captain Smith",
+                  "experience": 10,
+                  "age": 35
+              },
+              {
+                  "name": "Captain Johnson",
+                  "experience": 15,
+                  "age": 40
+              }
+          ],
+          "userReviews": [
+              {
+                  "name": "Babish Chaudhary",
+                  "rating": 4.5,
+                  "review": "Excellent service and comfortable flight."
+              },
+              {
+                  "name": "Rajesh Kumar",
+                  "rating": 4.0,
+                  "review": "Good flight experience, but could use better amenities."
+              }
+          ],
+          "maintenance": [
+              {
+                  "type": "Scheduled Maintenance",
+                  "date": "2024-03-01",
+                  "description": "Routine check-up and replacement of worn-out parts."
+              },
+              {
+                  "type": "Engine Overhaul",
+                  "date": "2023-09-15",
+                  "description": "Complete overhaul of engines to ensure optimal performance."
+              }
+          ],
+          "incidentReports": []
+      }
+  ]
+  
